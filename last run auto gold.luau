@@ -21,7 +21,7 @@ Instance.new("UICorner",frame)
 local title=Instance.new("TextLabel",frame)
 title.Size=UDim2.new(1,0,0,30)
 title.BackgroundTransparency=1
-title.Text="AutoGold V9"
+title.Text="AutoGold"
 title.TextColor3=Color3.fromRGB(255,215,0)
 title.Font=Enum.Font.GothamBold
 title.TextSize=16
